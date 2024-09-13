@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Full stack development
 - 💞️ I’m looking to collaborate on different project, don't hesite to ask :D 
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I started working in a big company as a software designer and got promoted, after 1 year of no coding i forget how to dev 😢 I'm currently learning again while having fun creating various projects.
+- ⚡ Fun fact: After 1 year of no coding i forgot how to dev 😢 I'm currently learning again while having fun creating various projects.
 
 <!---
 Lyric-lab/Lyric-lab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
