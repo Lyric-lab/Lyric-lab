@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Lyric-lab, a 28 years old software engineer living in Belgium
+- 👋 Hi, I’m @Lyric-lab, a 28 years old ex software engineer living in Belgium
 - 👀 I’m interested in a lot of different things ! Finance / Video games / Astrophysics / Dev
 - ❤️ I love : spending time with my friends,GF and family 
 - 🌱 I’m currently learning Full stack development
